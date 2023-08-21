@@ -10,7 +10,7 @@ There are multiple ports of connection all over Mexico, the map below was made b
 
 ###### Fig. 1: Image of Fiber Optic Cabling in Mexico by TELMEX 
 
-More specifically, the major Internet exchange points and network interconnection points are found here: 
+More specifically, the major Internet exchange points and network interconnection points are found here: [^3]
 
 * MEX-IX: Located in Mexico City, this is the Mexico Internet Exchange, operated by the Network Information Center Mexico (NIC-Mexico).
 
@@ -22,13 +22,11 @@ More specifically, the major Internet exchange points and network interconnectio
 
 * TIJ-IX: The Tijuana Internet Exchange Point is situated in Tijuana, near the border with the United States.
 
-* Veracruz: There are interconnection points in Veracruz, facilitating connectivity for the Gulf region.
-
-
-
-
+* Veracruz: These interconnection points in Veracruz facilitate connectivity for the Gulf region.
 
 
 [^1]: "Mexico's First Internet Connection." TEC Science, Tecnológico de Monterrey, https://tecscience.tec.mx/en/tech/mexico-first-internet-connection/#:~:text=That%20was%20on%20October%2012,The%20technology%20drew%20national%20attention.
 [^2]: "First Computer to Connect Mexico and Latin America to the Internet." Conecta TEC, Tecnológico de Monterrey, https://conecta.tec.mx/en/news/national/institution/first-computer-connect-mexico-and-latin-america-internet
-[^3]:  "Submarine Cable Map." Submarine Cable Map, TeleGeography, https://www.submarinecablemap.com/
+[^3]: "Internet Interconnection Infrastructure: Lessons from the Global South." Internet Policy Review, Date of Publication, https://policyreview.info/articles/analysis/internet-interconnection-infrastructure-lessons-global-south
+
+
