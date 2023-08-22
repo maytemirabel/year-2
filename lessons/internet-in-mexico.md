@@ -12,21 +12,33 @@ There are multiple ports of connection all over Mexico, the map below was made b
 
 More specifically, the major Internet exchange points and network interconnection points are found here: [^3]
 
-* MEX-IX: Located in Mexico City, this is the Mexico Internet Exchange, operated by the Network Information Center Mexico (NIC-Mexico).
+* MEX-IX
 
-* CIXP: The Cancun Internet Exchange Point is located in Cancun and serves as an important interconnection hub for the Yucatan Peninsula.
+* CIXP
 
-* MTY-IX: The Monterrey Internet Exchange, based in Monterrey, is another key interconnection point in northern Mexico.
+* MTY-IX
 
-* GDL-IX: The Guadalajara Internet Exchange serves the city of Guadalajara and the surrounding region.
+* GDL-IX
 
-* TIJ-IX: The Tijuana Internet Exchange Point is situated in Tijuana, near the border with the United States.
+* TIJ-IX
 
-* Veracruz: These interconnection points in Veracruz facilitate connectivity for the Gulf region.
+* Veracruz
+
+### Inter-oceanic wires in Mexico
+
+<img width="930" alt="Screen Shot 2023-08-23 at 8 35 54" src="https://github.com/maytemirabel/year-2/assets/105724334/dc295372-62ec-4fd9-b391-1883aacf4886">
+
+###### Fig. 2: Image of Submarine Cable Map [^4]
+
+Some Inter-oceanic wires in Mexico include:
+* Gold-Data1 - Connecting Veracruz, Mexico to Florida, USA
+* The Pan-American Crossing - Connects Mexico to the US, Panama and Costa Rica
+* ARCOS - Connects various countries like Mexico, Panama, Belize, Guatemala, US, Venezuela, Colombia, Nicaragua and Honduras
 
 
 [^1]: "Mexico's First Internet Connection." TEC Science, Tecnológico de Monterrey, https://tecscience.tec.mx/en/tech/mexico-first-internet-connection/#:~:text=That%20was%20on%20October%2012,The%20technology%20drew%20national%20attention.
 [^2]: "First Computer to Connect Mexico and Latin America to the Internet." Conecta TEC, Tecnológico de Monterrey, https://conecta.tec.mx/en/news/national/institution/first-computer-connect-mexico-and-latin-america-internet
 [^3]: "Internet Interconnection Infrastructure: Lessons from the Global South." Internet Policy Review, Date of Publication, https://policyreview.info/articles/analysis/internet-interconnection-infrastructure-lessons-global-south
+[^4]: "Submarine Cable Map" (https://www.submarinecablemap.com/)
 
 
