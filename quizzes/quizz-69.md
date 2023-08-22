@@ -27,3 +27,8 @@ profit_difference = best_sales - worst_sales
 
 print("profit difference between best and worst sale:", profit_difference)
 ```
+
+## Evidence of Code
+<img width="1148" alt="Screen Shot 2023-08-22 at 20 36 12" src="https://github.com/maytemirabel/year-2/assets/105724334/ca54fe0a-561d-410f-82cf-d2c73a176d27">
+
+#### Figure 1: Screenshot displaying code outcome
