@@ -21,5 +21,6 @@ def macGenerator(N:int):
 ```
 
 ## Evidence of Code
-<img width="1187" alt="Screen Shot 2023-08-28 at 12 11 30" src="https://github.com/maytemirabel/year-2/assets/105724334/a84d6259-712e-4165-ab70-7088da0d53c3">=
+<img width="1187" alt="Screen Shot 2023-08-28 at 12 11 30" src="https://github.com/maytemirabel/year-2/assets/105724334/a84d6259-712e-4165-ab70-7088da0d53c3">
+
 #### Figure 1: Screenshot displaying code outcome
