@@ -1,5 +1,5 @@
 # *Quiz 69*
-One array holds the daily sales of a clothing store in no particular order. You are tasked with finding the profit of the best day in comparison to the worst day. That is, how much more was sold in Japanese Yens on the best day?
+One array holds the daily sales of a clothing store in no particular order. You are tasked with finding the profit of the best day in comparison to the worst day. That is, how much more was sold in Japanese Yen on the best day?
 
 ## Data set
 <img width="317" alt="Screen Shot 2023-08-22 at 20 33 15" src="https://github.com/maytemirabel/Unit-3/assets/105724334/c40eeb41-8598-4513-9b0b-8a1f50ffc318">
