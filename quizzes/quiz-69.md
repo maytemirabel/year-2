@@ -10,13 +10,13 @@ One array holds the daily sales of a clothing store in no particular order. You 
 ```.py
 daily_sales = [100, 45, 12, 3, 56, 7]
 
-# initialize variables for best and worst sales
+# variables for best and worst sales
 best_sales = daily_sales[0]
 worst_sales = daily_sales[0]
 
 # finding the best and worst sales
 for sales in daily_sales:
-    # loop checking if the current value is greater than the current value of the best-sales
+    # loop checking if the value is greater than the current value of the best-sales
     if sales > best_sales:
         best_sales = sales
     # checks if the value is less than the current value of worst_sales: if so, the worst_sales variable is updated
