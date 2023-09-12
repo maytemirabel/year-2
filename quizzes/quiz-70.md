@@ -4,7 +4,7 @@ Create the code for the IPv4 machine
 ## Python Code
 ```.py
 output = input("IPv4 Machine Number: ")
-nested for loops to generate and print all possible IPv4 addresses
+# nested for loops to generate and print all possible IPv4 addresses
 for a in range(256):
     for b in range(256):
         for c in range(256):
