@@ -5,6 +5,7 @@ Create the code for the Mac generator machine
 ```.py
 import random
 def macGenerator(N:int):
+    # define the hexadecimal digits that can be used
     hex_digits = "0123456789ABCDEF"
     output = []
 
@@ -14,6 +15,8 @@ def macGenerator(N:int):
             group = ""
             for digits in range(2):
                 group += random.choice(hex_digits)
+            # append the MAC address to the output list and remove the colon
+        output.append(mac[:-1])
             mac += group + ":"
         output.append(mac[:-1])
 
