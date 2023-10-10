@@ -1,12 +1,7 @@
 # *Quiz 83* #
+Trace the program and show the output
+## Program tracing
 
-## Python Code
-```.py
+![IMG_5668](https://github.com/maytemirabel/year-2/assets/105724334/57b24b3a-9cfd-45e7-b6d6-e872b71f3163)
 
-
-```
-
-## Evidence of Code
-
-#### Figure 1: Screenshot displaying code outcome
-
+#### Figure 1: Image displaying trace table 
